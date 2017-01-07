@@ -1,0 +1,32 @@
+.head-background{background: url(../images/header.jpg) no-repeat;height: 242px;
+ background-size: 100% 100%;/*width: 100%;*/}
+.sms-head>a{font-size: 50px; color: #fff!important;}
+.space{height: 81px;}
+.head-body{background: #383993;}
+.head-about{color: #fff;}
+.head-about p{font-size: 15px;}
+.login-menu li a{color: #fff;}
+.login-menu li a:hover{background: none;color:#eea236; }
+.login-text-wrapper{padding: 10px;border: 2px solid #fff;color: #fff;}
+.library-wrapper{padding: 5px;border: 2px solid #fff;color: #fff;margin-top: 8%;}
+.library_err{visibility: hidden;}
+.library-wrapper input[type="text"] {color: #000;}
+.library-wrapper textarea {color: #000;}
+.library-wrapper p select{color: #000;}
+.msg_err{visibility: hidden;}
+.contact-wrapper{padding: 5px;border: 2px solid #fff;}
+.contact-wrapper h3{color: #fff;}
+.displaycontact-wrapper {padding: 5px;border: 2px solid #fff;}
+.displaycontact-wrapper h3 {color: #fff;}
+.displaycontact-wrapper ul{list-style: none;padding-left: 0px;}
+.displaycontact-wrapper ul li{color: #fff;list-style: none;}
+#select_group option{color: #000;}
+.contact_err{color: #fff;visibility: hidden;}
+.sendsms-cont{border: 2px solid #fff;padding: 5px;color: #fff;}
+.sendsms-cont ul{list-style: none;padding-left: 0px;}
+.sendsms-cont ul li a{color: #fff;}
+.liblink{color: #fff;}
+.liblink:hover{color: #fff;}
+.click-link{color: #fff;}
+#sendsms p input[type="text"]{color: #000;}
+#sendsms textarea{color: #000;}
